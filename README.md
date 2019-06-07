@@ -2,6 +2,8 @@ Docker image for ISC DHCP server
 ================================
 
 [![](https://images.microbadger.com/badges/image/networkboot/dhcpd.svg)](https://microbadger.com/images/networkboot/dhcpd "See more networkboot/dhcpd image details")
+[![Build Status](https://drone.dungtri.be/api/badges/dungtri/docker-dhcpd/status.svg)](https://drone.dungtri.be/dungtri/docker-dhcpd)
+
 
 This Docker image is suitable for running a DHCP server for your docker host
 network.  It uses ISC DHCP server which is bundled with the latest Ubuntu
